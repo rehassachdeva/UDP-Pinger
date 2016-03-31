@@ -9,8 +9,10 @@ EXECUTE:
 
 To run the server:
 `python UDPPingerServer.py <port no>`
+
 Example: `python UDPPingerServer.py 12000`
 
 To run the client:
 `python UDPPingerClient.py < server ip address> <server port no>`
+
 Example: `python UDPPingerClient.py 127.0.0.1 12000`
